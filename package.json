@@ -1,0 +1,31 @@
+{
+    "name": "discord-verification-bot",
+    "version": "1.0.0",
+    "description": "Discord verification bot",
+    "main": "index.js",
+    "engines": {
+        "node": "16.6.1",
+        "npm": "7.20.3"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "dev": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NEEROL/discord-verification-bot.git"
+    },
+    "author": "NEEROL",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NEEROL/discord-verification-bot/issues"
+    },
+    "homepage": "https://github.com/NEEROL/discord-verification-bot#readme",
+    "dependencies": {
+        "discord.js": "^13.0.1",
+        "dotenv": "^10.0.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
+}

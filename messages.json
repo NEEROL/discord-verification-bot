@@ -1,0 +1,10 @@
+{
+    "verify": "Press the button to verify yourself!",
+    "sendCode": "Your code is %CODE%. Enter it on this channel to get verified. You have 1 minute to type the code.",
+    "invalidCode": "Wrong code entered. Click on the button again to generate a new code.",
+    "codeExpired": "Time is up! The code has expired. Click on the button again to generate a new code.",
+    "userIsVerified": "You are already verified!",
+    "verifyYourself": "Get verified",
+    "retryVerification": "Retry verification",
+    "verificationSuccess": "You have been verified!"
+}
