@@ -60,3 +60,9 @@ Create an .env file and copy the contents from .env.example to the .env file.
 ```shell
 $ npm start
 ```
+
+### Commands
+
+`send_msg`
+
+-   Sends verification message (only works on the verification channel with MANAGE_GUILD privileges)
