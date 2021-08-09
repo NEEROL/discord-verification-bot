@@ -2,7 +2,7 @@
 
 > A simple discord bot that helps you verify a user with a verification code.
 
-## Requiments
+## Requirements
 
 Node - 16.6.1
 
