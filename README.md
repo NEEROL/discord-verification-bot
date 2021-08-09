@@ -47,7 +47,7 @@ $ cd discord-verification-bot/
 3. Install the dependencies
 
 ```shell
-npm install
+$ npm install
 ```
 
 ### Configuration
