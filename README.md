@@ -66,3 +66,7 @@ $ npm start
 `send_msg`
 
 -   Sends verification message (only works on the verification channel with MANAGE_GUILD privileges)
+
+### License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/NEEROL/discord-verification-bot/blob/main/LICENSE) file for details
